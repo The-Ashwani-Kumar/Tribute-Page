@@ -1,0 +1,30 @@
+li:hover {
+  color: wheat;
+}
+
+.my-table {
+  border: 1px solid white;
+  width: 100%;
+}
+
+tr {
+  border-collapse: collapse;
+  border-color: white;
+  align-items: center;
+  text-align: center;
+}
+
+td,
+th {
+  border: 1px solid white;
+  padding: 10px;
+}
+
+tr:nth-child(even):hover {
+  color: black;
+  background-color: wheat;
+}
+
+td:hover{
+    color: blue;
+}

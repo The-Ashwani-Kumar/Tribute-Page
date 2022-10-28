@@ -1,0 +1,28 @@
+* {
+    color: white;
+}
+
+
+.div1 {
+    margin: 30px;
+    padding: 30px;
+    border-radius: 15px;
+    border: 1px solid white;
+}
+
+.div1:hover {
+    border-color: wheat;
+    background-color: rgb(26, 25, 25);
+}
+
+.head1 {
+    text-decoration:underline;
+}
+
+.head1:hover {
+    color: wheat;
+}
+
+.para1:hover {
+    color: wheat;
+}
